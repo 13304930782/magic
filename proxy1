@@ -20,4 +20,3 @@ DOMAIN-KEYWORD,iplocation
 
 # S-UI servers
 IP-CIDR,216.23.95.68/24,no-resolve
-IP-CIDR,104.245.13.12/24,no-resolve
