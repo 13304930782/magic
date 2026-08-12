@@ -21,6 +21,19 @@ DOMAIN-KEYWORD,iplocation
 # S-UI servers
 IP-CIDR,216.23.95.68/24,no-resolve
 
+# Apple Private Relay / iCloud
+DOMAIN,mask-api.icloud.com
+DOMAIN,mask-api.fe.apple-dns.net
+DOMAIN,mask-api.fe2.apple-dns.net
+DOMAIN,mask-t.apple-dns.net
+DOMAIN,mask.apple-dns.net
+DOMAIN,mask-h2.icloud.com
+DOMAIN,mask.icloud.com
+
+# Lenovo
+DOMAIN,media.ads.lenovo.com
+DOMAIN,osfsr.lenovo.com
+
 # Overwolf Platform
 DOMAIN-SUFFIX,overwolf.com
 
