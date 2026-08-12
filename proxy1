@@ -20,3 +20,12 @@ DOMAIN-KEYWORD,iplocation
 
 # S-UI servers
 IP-CIDR,216.23.95.68/24,no-resolve
+
+# Overwolf Platform
+DOMAIN-SUFFIX,overwolf.com
+
+# DediRock
+DOMAIN-SUFFIX,dedirock.com
+
+# Australian Smartraveller
+DOMAIN-SUFFIX,smartraveller.gov.au
